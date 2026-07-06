@@ -1,0 +1,3 @@
+[submodule "3rdparty/megaAttention"]
+	path = 3rdparty/megaAttention
+	url = http://183.207.7.174:8081/moon/megaattention.git
